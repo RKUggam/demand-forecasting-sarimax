@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.env
+.venv
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Data files (keep raw data out of git if large/sensitive)
+data/raw/*
+data/processed/*
+
+# Model artifacts
+*.pkl
+*.joblib
+
+# Editor settings
+.vscode/
+.idea/
+
+# Matplotlib cache
+.matplotlib/
