@@ -19,8 +19,8 @@ Historical order-level data aggregated to daily demand.
 SARIMAX model selected based on superior out-of-sample performance.
 
 ### Results
-- MAE ≈ XX
-- RMSE ≈ XX
+- MAE ≈ 47.6
+- RMSE ≈ 62.5
 
 ### Business Impact
 Forecasts enable staffing, inventory, and logistics planning with acceptable error margins.
